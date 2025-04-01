@@ -37,12 +37,28 @@ public class SecurityConfig {
     }
 
     private ClientRegistration googleClientRegistration() {
+       //Test prueba error error con Google_client
+
+//        String clientId = dotenv.get("GOOGLE_CLIENT_ID");
+//        String clientSecret = dotenv.get("GOOGLE_CLIENT_SECRET");
+//
+//        System.out.println("GOOGLE_CLIENT_ID from .env: [" + clientId + "]");
+//        System.out.println("GOOGLE_CLIENT_SECRET from .env: [" + clientSecret + "]");
+//
+//        if (clientId == null || clientId.isEmpty() || clientSecret == null || clientSecret.isEmpty()) {
+//            System.err.println("Error: GOOGLE_CLIENT_ID or GOOGLE_CLIENT_SECRET is missing or empty.");
+//            return null;
+//        }
+
+
+
+
         return ClientRegistration.withRegistrationId("google")
                 .clientId(dotenv.get("GOOGLE_CLIENT_ID"))
                 .clientSecret(dotenv.get("GOOGLE_CLIENT_SECRET"))
                 .clientAuthenticationMethod(ClientAuthenticationMethod.CLIENT_SECRET_BASIC)
                 .authorizationGrantType(AuthorizationGrantType.AUTHORIZATION_CODE)
-                .redirectUri("http://localhost:8080/login/oauth2/code/google")
+                .redirectUri("http://localhost:8080")
                // .redirectUri("{baseUrl}/login/oauth2/code/{registrationId}")
                 .scope("openid", "profile", "email")
                 .authorizationUri("https://accounts.google.com/o/oauth2/v2/auth")
