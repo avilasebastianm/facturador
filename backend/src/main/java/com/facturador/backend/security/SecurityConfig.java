@@ -36,23 +36,8 @@ public class SecurityConfig {
         return new InMemoryClientRegistrationRepository(googleClientRegistration());
     }
 
+
     private ClientRegistration googleClientRegistration() {
-       //Test prueba error error con Google_client
-
-//        String clientId = dotenv.get("GOOGLE_CLIENT_ID");
-//        String clientSecret = dotenv.get("GOOGLE_CLIENT_SECRET");
-//
-//        System.out.println("GOOGLE_CLIENT_ID from .env: [" + clientId + "]");
-//        System.out.println("GOOGLE_CLIENT_SECRET from .env: [" + clientSecret + "]");
-//
-//        if (clientId == null || clientId.isEmpty() || clientSecret == null || clientSecret.isEmpty()) {
-//            System.err.println("Error: GOOGLE_CLIENT_ID or GOOGLE_CLIENT_SECRET is missing or empty.");
-//            return null;
-//        }
-
-
-
-
         return ClientRegistration.withRegistrationId("google")
                 .clientId(dotenv.get("GOOGLE_CLIENT_ID"))
                 .clientSecret(dotenv.get("GOOGLE_CLIENT_SECRET"))
