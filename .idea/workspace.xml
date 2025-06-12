@@ -5,32 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47c35315-9c11-4011-8862-4fd78dc36ac2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/animales/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/animales/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/animales/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/animales/PruebaAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/persona/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/persona/PruebaPersona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/FacturacionAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/FacturacionAppApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/config/DotenvConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/config/DotenvConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/controller/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/controller/ClienteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/controller/FacturaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/controller/FacturaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/controller/ItemController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/controller/PresupuestoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/controller/PresupuestoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/controller/UsuarioController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/model/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/model/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/model/Factura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/model/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/model/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/model/Presupuesto.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/model/Presupuesto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/model/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/repository/ClienteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/repository/ClienteRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/repository/FacturaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/repository/FacturaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/repository/ItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/repository/ItemRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/repository/PresupuestoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/repository/PresupuestoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/repository/UsuarioRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/security/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/service/ClienteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/service/FacturaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/service/FacturaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/service/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/service/ItemService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/service/PresupuestoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/service/PresupuestoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/facturador/backend/service/UsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/facturador/service/UsuarioService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javac/src/ifswitch07/DiaSemana_95.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javac/src/ifswitch07/DiaSemana_95.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +34,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///JetClient Request Console" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="HttpClientEndpointsTabState">
+    <option name="cachedRequestData" value="&lt;CachedHttpClientTabRequests /&gt;" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -75,35 +60,35 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.FacturacionAppApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/seba-dev/IdeaProjects/java/javac",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.FacturacionAppApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/seba-dev/IdeaProjects/java/javac&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "GenericSQL"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;GenericSQL&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/backend" />
@@ -135,8 +120,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
       </set>
     </attachedChunks>
   </component>
@@ -165,6 +150,7 @@
       <workItem from="1743547332059" duration="5270000" />
       <workItem from="1743603949480" duration="8801000" />
       <workItem from="1746558279501" duration="25000" />
+      <workItem from="1749741870455" duration="2908000" />
     </task>
     <servers />
   </component>
