@@ -11,7 +11,7 @@
       <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/animales/PruebaAnimal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/persona/Persona.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/persona/PruebaPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +150,7 @@
       <workItem from="1743547332059" duration="5270000" />
       <workItem from="1743603949480" duration="8801000" />
       <workItem from="1746558279501" duration="25000" />
-      <workItem from="1749741870455" duration="3717000" />
+      <workItem from="1749741870455" duration="3798000" />
     </task>
     <servers />
   </component>
