@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47c35315-9c11-4011-8862-4fd78dc36ac2" name="Changes" comment="">
+    <list default="true" id="831cda88-d900-4ff4-8921-3f83d1203ee4" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/animales/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/animales/Gato.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/animales/Perro.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/animales/PruebaAnimal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/persona/Persona.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javac/src/seccion12/persona/PruebaPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,17 +98,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="facturacion-app" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="facturacion-app" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
     <configuration name="FacturacionAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="backend" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.facturador.FacturacionAppApplication" />
@@ -131,7 +120,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="47c35315-9c11-4011-8862-4fd78dc36ac2" name="Changes" comment="" />
+      <changelist id="831cda88-d900-4ff4-8921-3f83d1203ee4" name="Changes" comment="" />
       <created>1743530112756</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -150,7 +139,8 @@
       <workItem from="1743547332059" duration="5270000" />
       <workItem from="1743603949480" duration="8801000" />
       <workItem from="1746558279501" duration="25000" />
-      <workItem from="1749741870455" duration="4167000" />
+      <workItem from="1749741870455" duration="10082000" />
+      <workItem from="1749830822816" duration="329000" />
     </task>
     <servers />
   </component>
@@ -162,7 +152,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
